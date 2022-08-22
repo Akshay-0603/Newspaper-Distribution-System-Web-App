@@ -1,0 +1,10 @@
+.cardcontainer {
+    width: 100%;
+    max-width: 550px;
+    padding:20px 15px;
+    margin: 0px auto;
+  }
+
+.container{
+  padding-top: "40%";
+}

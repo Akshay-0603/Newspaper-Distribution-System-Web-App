@@ -1,0 +1,13 @@
+.cardcontainer {
+    /* width: 100%; */
+    max-width: 550px;
+    padding:20px 15px;
+    margin: 0px auto;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  }
+
+.container{
+  padding-top: "40%";
+}
+

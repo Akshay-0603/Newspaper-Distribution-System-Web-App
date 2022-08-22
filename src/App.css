@@ -1,0 +1,27 @@
+/* .App {
+  background-image: url('../public/images/newspaper-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+} */
+
+/* html, body {
+  width: 100%;
+  height: 100%;
+  background-color: aqua;
+} */
+
+.label {
+  display: inline;
+  text-align: left;
+}
+
+.btn {
+  width: 100%;
+  margin: 2px;
+}
+
+.options {
+  margin: 10px;
+  font-size: large;
+}
